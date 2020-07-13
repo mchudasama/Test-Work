@@ -1,7 +1,8 @@
 class HelloWorld {
     public static void main(String[] args) {
-	System.out.println("Test-Work-changes");
 	System.out.println("/--------------------/");
+	System.out.println("Test-Work-changes");
+	System.out.println("/---------Start-----------/");
 	System.out.println("Hello, World!");
 	System.out.println("Hello User"); 
 	System.out.println("How are you");
@@ -15,6 +16,7 @@ class HelloWorld {
 	System.out.println("Address 2"); 
 	System.out.println("Street"); 
 	System.out.println("Country"); 
+	System.out.println("/----------END----------/");
 	System.out.println("/--------------------/");
     }
 }
