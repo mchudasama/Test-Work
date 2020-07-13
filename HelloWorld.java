@@ -16,6 +16,7 @@ class HelloWorld {
 	System.out.println("Address 2"); 
 	System.out.println("Street"); 
 	System.out.println("Country"); 
+	System.out.println("Pincode"); 
 	System.out.println("/----------END----------/");
 	System.out.println("/--------------------/");
     }
