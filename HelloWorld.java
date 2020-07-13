@@ -11,6 +11,6 @@ class HelloWorld {
 	System.out.println("what is your Gender"); 
 	System.out.println("Mobile number"); 
 	System.out.println("Email"); 
-	System.out.println("/**********************************************/");
+	System.out.println("**********************************************");
     }
 }
