@@ -10,6 +10,7 @@ class HelloWorld {
 	System.out.println("what is your age");
 	System.out.println("what is your Gender");
 	System.out.println("what is your Gender"); 
+	System.out.println("/--------------------------/");
 	System.out.println("Mobile number"); 
 	System.out.println("Email");
 	System.out.println("Address1"); 
@@ -18,8 +19,8 @@ class HelloWorld {
 	System.out.println("Street"); 
 	System.out.println("state"); 
 	System.out.println("Country"); 
-	System.out.println("Pincode"); 
+	System.out.println("Pin-code"); 
 	System.out.println("/----------END----------/");
-	System.out.println("/------*************------/");
+	System.out.println("/-----################-----/");
     }
 }
